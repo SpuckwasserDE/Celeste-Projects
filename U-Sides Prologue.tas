@@ -1,0 +1,98 @@
+# U(ltra)-Sides
+# https://gamebanana.com/mods/578533
+
+RecordCount: 221
+
+console load "SpuckGD/Spucks U-Sides/0-Prologue"
+   1
+
+#Start
+  84
+
+#lvl_a-01
+   4
+  14,L,Z
+   1,R,J
+  13,R,D,X
+   1,S
+   1,D,O
+  34
+   1,R,J
+   1,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R
+   4,R,J
+   8,R,U,X
+  40
+
+#lvl_a-02
+   6,R,U,X
+   1,R,J
+  14,R,Z
+   1,R,J
+   7,R,D,X
+   1,S
+   1,D,O
+  34
+   3,R
+   1,R,J
+   4,R
+  14,R,D,X
+   4,R,D
+  33,R,J
+  12,R,X
+   1,R,J,G
+  11,R
+  40
+
+#lvl_a-03
+   8,R,D,X
+   1,S
+   1,D,O
+  34
+   2,R
+   7,R,J
+  14,R,D,X
+   2,R
+  33,R,J
+  10,R,X
+   1,R,J,G
+  11,R
+  40
+
+#lvl_a-04
+   2,R
+   1,R,J
+   7,R,D,X
+   1,S
+   1,D,O
+  34
+   3,R
+   1,R,J
+  10,R
+  13,R,D,X
+   1,R,J,G
+  13,R
+  39,R,J
+  14,R,U,X
+   2,R,J,G
+  13,R
+  40
+
+#lvl_a-06
+   1,R,J
+   8,R,D
+  14,R,U,X
+   1,S
+   1,D,O
+  34
+  13,R
+  40,L,U,X
+ 100
+   1,S
+   1,U,O
+   1,J
+  31
